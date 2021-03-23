@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Valentin COTTE	valentin.cotte@viveris.fr	@awesomevc
 
 # THANKS
 
